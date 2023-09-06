@@ -15,7 +15,7 @@ The Data Analytics team at AtliQ has been tasked with developing a comprehensive
 1. Loaded the Excel sheet data in Power query
 2. Performed ETL and data cleaning on the imported data.
 3. Performed the data transformations on one months attendance sheet and created a function for the performed steps. 
-4. Then used the same function to perform data transformations on other months data and appended the data in single sheet.
+4. Then used the same function to perform data transformations on other months data and appended the data in single table.
 5. Created measure and used them for creating visuals in PowerBi.
 
 # Final Dashboard:
